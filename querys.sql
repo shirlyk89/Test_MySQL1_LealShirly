@@ -49,3 +49,5 @@ select e.sustitutos_id as 'medicos sustitutos', m.id, m.nombre from empleados e 
 
 
 -- 15. Total de horas de consulta por especialidad y día de la semana.
+
+select 
